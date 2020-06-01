@@ -1,0 +1,2 @@
+rootProject.name='EVA3_8_HANDLER_RUNNABLES'
+include ':app'
