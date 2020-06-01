@@ -1,0 +1,2 @@
+rootProject.name='EVA3_5_INTERRUPT'
+include ':app'
