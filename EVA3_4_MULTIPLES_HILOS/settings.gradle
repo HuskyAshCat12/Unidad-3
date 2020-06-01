@@ -1,0 +1,2 @@
+rootProject.name='EVA3_4_MULTIPLES_HILOS'
+include ':app'
